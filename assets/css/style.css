@@ -42,6 +42,13 @@ img#palacio{
     background-color: rgb(140, 200, 50);
     border-color: rgb(140, 200, 50);
 }
+#btnres{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: rgb(140, 200, 50);
+    border-color: rgb(140, 200, 50);
+}
 h2{
     font-size: 40px;
 }
@@ -52,4 +59,15 @@ h2{
 #menufooter .nav-item{
     width: 6rem;
     margin: 2rem;
+}
+#tarj {
+    border-radius: 0px;
+    margin-top: 20px;
+
+}
+
+#total {
+    background-color: rgb(191, 221, 255);
+    margin-top: 35px;
+   height: 55px;
 }
